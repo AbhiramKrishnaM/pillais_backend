@@ -1,0 +1,11 @@
+{
+  "name": "pillais_backend",
+  "version": "1.0.0",
+  "description": "Backend for Pillais snacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
